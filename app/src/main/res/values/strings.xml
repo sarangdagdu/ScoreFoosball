@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ScoreFoosball</string>
+    <string name="red_green">red / green</string>
+    <string name="_0">0</string>
+    <string name="a_scores">A Scores</string>
+    <string name="penalty_shot">Penalty Shot</string>
+    <string name="b_scores">B Scores</string>
+    <string name="reset">Reset</string>
+    <string name="foosball_table">Foosball Table</string>
+</resources>
